@@ -1,7 +1,7 @@
 # KCNQ1_ML_Model
 Contain files that reproduces the manuscript results
 
-BCL exceutable is required to run this model. It is freely available for academic users
+BCL exceutable is required to run this model. It is freely available for academic users.
 Here is the link http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1
 
 Additional Requirement: 
