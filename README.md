@@ -5,7 +5,7 @@ BCL exceutable is required to run this model. It is freely available for academi
 Here is the link http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1
 
 Additional Requirement: 
-Slurm scheduler with atleast 25 threads
+Slurm scheduler with atleast 25 threads available
 
 To run this machine learning model
 
