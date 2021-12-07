@@ -1,5 +1,5 @@
 # KCNQ1_ML_Model
-Contains files that reproduce the manuscript results
+Contain files that reproduces the manuscript results
 
 Requirement 
 BCL exceutable is required to run this model. It is freely avaibable for academic users
