@@ -16,19 +16,3 @@ To run this machine learning model
 	source run.sh Q1PreVarBio
 
 Protocol capture is documented in S1_Protocol_Capture.doc
-
-Requirements:
-
-To run this machine learning model
-
-1) Create bcl readable bin file that carry information features and results label for the model
-
-	source create_features_results_labels.sh ll
-
-2) Run the model
-
-	source run.sh Q1PreVarBio
-
-Additional Requirement
-
-Slurm scheduler with atleast 25 available threads
