@@ -15,4 +15,4 @@ To run this machine learning model
 2) Run the model
 	source run.sh Q1PreVarBio
 
-Protocol capture is documented in Protocol Capture_Final.doc file
+Protocol capture is documented in S1_Protocol_Capture.doc
