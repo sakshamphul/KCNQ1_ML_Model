@@ -1,8 +1,9 @@
-# KCNQ1_ML_Model
+Webserver: http://carbon.structbio.vanderbilt.edu/index.php/servers/show?job_id=23898
+
 Contain files that reproduces the manuscript results
 
 BCL exceutable is required to run this model. It is freely available for academic users.
-Here is the link http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1
+Here is the link http://carbon.structbio.vanderbilt.edu/index.php/bclcommons/show/b_apps_id/1
 
 Additional Requirement: 
 Slurm scheduler with atleast 25 threads available
