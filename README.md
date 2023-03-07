@@ -3,7 +3,7 @@ Webserver: http://carbon.structbio.vanderbilt.edu/index.php/servers/show?s_id=29
 Contain files that reproduces the manuscript results
 
 BCL exceutable is required to run this model. It is freely available for academic users.
-Here is the link http://carbon.structbio.vanderbilt.edu/index.php/bclcommons/show/b_apps_id/1
+Here is the link http://servers.meilerlab.org/index.php/servers/show?s_id=29
 
 Additional Requirement: 
 Slurm scheduler with atleast 25 threads available
