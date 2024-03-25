@@ -22,3 +22,4 @@ fi
 rm slur*
 fi
 
+exit 0
