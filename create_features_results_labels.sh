@@ -8,3 +8,5 @@ bcl-apps-static.exe GenerateDataset -source "ProteinMutationsDirectory(./,key fi
 else
 bcl-apps-static.exe GenerateDataset -source "ProteinMutationsDirectory(./,key file=./keys.txt,aa class=AAComplete,mutation extension=.model_data.csv,suffix=.pdb,add self mutation fraction=0.0)" -output features_results.csv -feature_labels features_combined.obj -result_labels resultslqts_combined.obj -id_labels 'Combine(MutationId)'
 fi
+
+exit 0
